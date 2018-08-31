@@ -1,0 +1,39 @@
+{
+  "name": "react-course-easycode-PaskoDmitry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/webpack-dev-server --inline --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easycode-react-08-2018/react-course-easycode-PaskoDmitry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easycode-react-08-2018/react-course-easycode-PaskoDmitry/issues"
+  },
+  "homepage": "https://github.com/easycode-react-08-2018/react-course-easycode-PaskoDmitry#readme",
+  "dependencies": {
+    "bootstrap3": "^3.3.5",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "style-loader": "^0.23.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-sass": "^3.3.7",
+    "css-loader": "^1.0.0",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.7"
+  }
+}
